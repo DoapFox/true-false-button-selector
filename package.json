@@ -1,0 +1,11 @@
+{
+  "name": "random-button",
+  "version": "1.0.0",
+  "description": "Select a random button and if it will be correct, button will be green, else it will turn to red",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
